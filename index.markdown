@@ -15,7 +15,7 @@ In addition to method and software developement for transport through the Phoebe
 You can learn more about the Phoebe package by checking out its [github repository](https://github.com/mir-group/phoebe) or the [code release manuscript here](https://dx.doi.org/10.1088/2515-7639/ac86f6). 
 
 * I'm also currently collaborating with the Hughes group @ UIUC to functionalize xene materials to realize useful topological interfacial modes.  
-https://arxiv.org/abs/2203.15800
+[https://arxiv.org/abs/2203.15800](https://arxiv.org/abs/2203.15800)
 
 
 ## Links
