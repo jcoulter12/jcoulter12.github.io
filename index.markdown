@@ -20,7 +20,7 @@ In addition to method and software developement for transport through the Phoebe
 * Outside of research, I'm a co-chair of the Harvard Women in Physics group. In the past at Rutgers University, I received an APS Women in Physics group grant to form an undergraduate group there.
 
 ## Links
-* [Google Scholar](https://scholar.google.com/citations?user=4-QTKr4AAAAJ&hl=en&authuser=1)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=4-QTKr4AAAAJ)
 * [LinkedIn](https://www.linkedin.com/in/jenny-coulter-0945b7105/)
 * [Github](https://github.com/jcoulter12)
 
