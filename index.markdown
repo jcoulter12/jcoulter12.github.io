@@ -17,7 +17,7 @@ Previously:
 * I'm generally interested in computational materials science/condensed matter physics method development efforts.
 * Currently, most of my work focuses on **predicting the transport properties of materials.**
 
-* **I'm a developer of the Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).**
+* **I'm a developer of the Phoebe code** (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
   * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [manuscript](https://dx.doi.org/10.1088/2515-7639/ac86f6).
   * For questions about using Phoebe, open an issue on the [git discussions](https://github.com/mir-group/phoebe/discussions) page.  
   
