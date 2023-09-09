@@ -9,8 +9,8 @@ layout: default
 I'm currently a Flatiron Research Fellow at the Flatiron Institute Center for Computational Quantum Physics (CCQ).
 
 Previously:
- * I obtained my PhD in Applied Physics working in the [MIR group](https://mir.g.harvard.edu/) led by Prof. Boris Kozinsky at Harvard Unversity.
- * My PhD research was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
+ * I obtained my PhD in Applied Physics from the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard Unversity.
+ * My PhD was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
  * I earned my B.S. in physics from Rutgers University in 2017.
 
 ## Interests
