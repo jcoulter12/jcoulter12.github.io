@@ -5,21 +5,28 @@ layout: default
 ---
 
 # Jennifer (Jenny) Coulter
-I'm a PhD candidate in Applied Physics working in the [MIR group](https://mir.g.harvard.edu/) led by Prof. Boris Kozinsky at Harvard Unversity. My PhD research was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021. I earned my B.S. in physics from Rutgers University in 2017.
+
+I'm currently a Flatiron Research Fellow at the Flatiron Institute Center for Computational Quantum Physics (CCQ).
+
+Previously:
+ * I obtained my PhD in Applied Physics working in the [MIR group](https://mir.g.harvard.edu/) led by Prof. Boris Kozinsky at Harvard Unversity.
+ * My PhD research was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
+ * I earned my B.S. in physics from Rutgers University in 2017.
 
 ## Interests
-* I'm broadly interested in contributing to computational materials science/condensed matter physics software and method development efforts.
+* I'm broadly interested in contributing to computational materials science/condensed matter physics software and method development efforts. Currently, most of my work focuses on computational techniques to predict the transport properties of materials.
 
-* Currently, most of my work focuses on computational techniques to predict transport in bulk materials as a developer of the Phoebe code (a high-performance framework for phonon and electron Boltzmann transport equation solutions).
-You can learn more about the Phoebe package by checking out its [github repository](https://github.com/mir-group/phoebe) or the [code release manuscript here](https://dx.doi.org/10.1088/2515-7639/ac86f6). 
-In addition to method and software developement for transport through the Phoebe code, I study the impact of different scattering processes on thermal/electrical conductivities and thermoelectric properties.
+*  I'm a founding developer of the Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
+    * You can learn more about the Phoebe package by checking out its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [code release manuscript here](https://dx.doi.org/10.1088/2515-7639/ac86f6).
+    * For questions about using Phoebe, open an issue on the [git discussions](https://github.com/mir-group/phoebe/discussions) page and I'll try to help. 
 
-* In the past, I've spent time using these methods to characterize transport and scattering processes, primarily in topological semimetals. 
+* I have experience applying these methods to study transport in specific materials.
+  * I've worked on optimizing electrical, thermal, and thermoelectric properties for applications.
+  * I'm also interested in understanding unique transport phenomena such as hydrodynamic transport.
 
-* I'm also currently collaborating with the Hughes group @ UIUC to functionalize xene materials to realize useful topological interfacial modes.  
-[https://arxiv.org/abs/2203.15800](https://arxiv.org/abs/2203.15800)
-
-* Outside of research, I'm a co-chair of the Harvard Women in Physics group. In the past at Rutgers University, I received an APS Women in Physics group grant to form an undergraduate group there.
+* When possible, I also like to contribute to diversity efforts.
+  * I was the co-chair of the Harvard Women in Physics group for two years during 2020-2023.
+  * As an student at Rutgers University, I received an APS Women in Physics group grant to form an undergraduate group there.
 
 ## Links
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=4-QTKr4AAAAJ)
@@ -27,4 +34,4 @@ In addition to method and software developement for transport through the Phoebe
 * [Github](https://github.com/jcoulter12)
 
 ## Contact
-Please feel free to reach out to me by email at **jcoulter@g.harvard.edu**.
+Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
