@@ -6,32 +6,34 @@ layout: default
 
 # Jennifer (Jenny) Coulter
 
-I'm currently a Flatiron Research Fellow at the Flatiron Institute Center for Computational Quantum Physics (CCQ).
+I'm currently a Flatiron Research Fellow at the [Center for Computational Quantum Physics (CCQ)](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/).
 
 Previously:
  * I obtained my PhD in Applied Physics from the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard Unversity.
- * My PhD was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
+ * I was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
  * I earned my B.S. in physics from Rutgers University in 2017.
 
 ## Interests
-* I'm broadly interested in contributing to computational materials science/condensed matter physics software and method development efforts. Currently, most of my work focuses on **computational techniques to predict the transport properties of materials.**
+* I'm broadly interested in computational materials science/condensed matter physics method development efforts.
+* Currently, most of my work focuses on **computational techniques to predict the transport properties of materials.**
 
 * **I'm a founding developer of the Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).**
-  * You can learn more about the Phoebe package by checking out its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [code release manuscript here](https://dx.doi.org/10.1088/2515-7639/ac86f6).
+  * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [code release manuscript here](https://dx.doi.org/10.1088/2515-7639/ac86f6).
   * For questions about using Phoebe, open an issue on the [git discussions](https://github.com/mir-group/phoebe/discussions) page and I'll try to help. 
 
-* **I have experience applying these methods to study transport in specific materials.**
+* **I've used these methods to study transport in specific materials.**
   * I've worked on optimizing electrical, thermal, and thermoelectric properties for applications.
   * I'm also interested in understanding unique transport phenomena such as hydrodynamic transport.
 
-* **When possible, I also like to contribute to diversity efforts.**
+* When possible, I also like to contribute to diversity efforts.
   * I was the co-chair of the Harvard Women in Physics group for two years during 2020-2023.
   * As an student at Rutgers University, I received an APS Women in Physics group grant to form an undergraduate group there.
+
+## Contact
+Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
 
 ## Links
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=4-QTKr4AAAAJ)
 * [LinkedIn](https://www.linkedin.com/in/jenny-coulter-0945b7105/)
 * [Github](https://github.com/jcoulter12)
 
-## Contact
-Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
