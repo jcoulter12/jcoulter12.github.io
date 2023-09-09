@@ -26,8 +26,8 @@ Previously:
   * I'm also interested in understanding unique transport phenomena such as hydrodynamic transport.
 
 * When possible, I also like to contribute to diversity efforts.
-  * I was the co-chair of the Harvard Women in Physics group for two years during 2020-2023.
-  * As an student at Rutgers University, I received an APS Women in Physics group grant to form an undergraduate group there.
+  * I was a chair of the Harvard Women in Physics group from spring 2020-2023.
+  * At Rutgers University, I received an APS Women in Physics grant to form an undergraduate group.
 
 ## Contact
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
