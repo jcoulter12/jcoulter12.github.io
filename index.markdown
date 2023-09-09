@@ -12,22 +12,24 @@ Previously:
  * I obtained my PhD in Applied Physics from the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard Unversity.
  * I was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
  * I earned my B.S. in physics from Rutgers University in 2017.
-
+___
 ## Interests
-* I'm broadly interested in computational materials science/condensed matter physics method development efforts.
+* I'm generally interested in computational materials science/condensed matter physics method development efforts.
 * Currently, most of my work focuses on **computational techniques to predict the transport properties of materials.**
 
-* **I'm a founding developer of the Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).**
-  * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [code release manuscript here](https://dx.doi.org/10.1088/2515-7639/ac86f6).
+* **I'm a developer of the Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).**
+  * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [manuscript](https://dx.doi.org/10.1088/2515-7639/ac86f6).
   * For questions about using Phoebe, open an issue on the [git discussions](https://github.com/mir-group/phoebe/discussions) page and I'll try to help. 
 
 * **I've used these methods to study transport in specific materials.**
   * I've worked on optimizing electrical, thermal, and thermoelectric properties for applications.
   * I'm also interested in understanding unique transport phenomena such as hydrodynamic transport.
 
-* When possible, I also like to contribute to diversity efforts.
+When possible, I also like to contribute to diversity efforts.
   * I was a chair of the Harvard Women in Physics group from spring 2020-2023.
   * At Rutgers University, I received an APS Women in Physics grant to form an undergraduate group.
+
+___
 
 ## Contact
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
