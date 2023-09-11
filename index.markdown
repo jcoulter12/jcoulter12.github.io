@@ -19,12 +19,12 @@ Currently, most of my work focuses on **predicting the transport properties of m
 
 * **I'm a developer of the Phoebe code** (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
   * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [manuscript](https://dx.doi.org/10.1088/2515-7639/ac86f6).
-  * For questions about using Phoebe, open a [git discussion](https://github.com/mir-group/phoebe/discussions) or email me directly.  
-  
+  * For questions about using Phoebe, open a [git discussion](https://github.com/mir-group/phoebe/discussions) or email me directly. 
+<br/><br/>
 * **I've used these methods to study transport in specific materials.**
   * I've optimized electrical, thermal, and thermoelectric properties for applications.
   * I'm interested in understanding exotic transport phenomena such as hydrodynamic transport.
-
+<br/><br/>
 * Beyond research, I also like to contribute to diversity efforts.
   * I was a chair of the Harvard Women in Physics group from spring 2020-2023.
   * At Rutgers University, I received an APS Women in Physics grant to form an undergraduate group.
