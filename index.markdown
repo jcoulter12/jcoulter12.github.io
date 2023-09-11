@@ -22,8 +22,8 @@ Currently, most of my work focuses on **predicting the transport properties of m
   * For questions about using Phoebe, open a [git discussion](https://github.com/mir-group/phoebe/discussions) or email me directly.  
   
 * **I've used these methods to study transport in specific materials.**
-  * I've worked on optimizing electrical, thermal, and thermoelectric properties for applications.
-  * I'm also interested in understanding exotic transport phenomena such as hydrodynamic transport.
+  * I've optimized electrical, thermal, and thermoelectric properties for applications.
+  * I'm interested in understanding exotic transport phenomena such as hydrodynamic transport.
 
 * Beyond research, I also like to contribute to diversity efforts.
   * I was a chair of the Harvard Women in Physics group from spring 2020-2023.
