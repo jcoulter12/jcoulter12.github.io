@@ -23,9 +23,9 @@ Currently, most of my work focuses on **predicting the transport properties of m
   
 * **I've used these methods to study transport in specific materials.**
   * I've worked on optimizing electrical, thermal, and thermoelectric properties for applications.
-  * I'm interested in understanding more exotic transport phenomena such as hydrodynamic transport.
+  * I'm also interested in understanding exotic transport phenomena such as hydrodynamic transport.
 
-* I've also enjoyed contributing to diversity efforts.
+* Beyond research, I also like to contribute to diversity efforts.
   * I was a chair of the Harvard Women in Physics group from spring 2020-2023.
   * At Rutgers University, I received an APS Women in Physics grant to form an undergraduate group.
 
