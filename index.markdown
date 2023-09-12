@@ -10,7 +10,7 @@ I'm currently a Flatiron Research Fellow at the [Center for Computational Quantu
 
 Previously:
  * I obtained my PhD in Applied Physics from the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard Unversity.
- * I was funded by the DoE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
+ * I was funded by the DOE Computational Science Graduate Fellowship (CSGF) from 2017-2021.
  * I earned my B.S. in physics from Rutgers University in 2017.
 
 ## Interests
