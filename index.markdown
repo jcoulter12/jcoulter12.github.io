@@ -30,29 +30,29 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 **Electron-phonon effects in correlated electron systems**
 
-  * Electron-phonon coupling in correlated materials: insights from the Hubbard-Holstein model. (2025).  <br/>
-  J. Coulter, A.J. Millis <br/>
-  [arXiv](https://arxiv.org/abs/2505.08081)
+  * Electron-phonon coupling in correlated materials: insights from the Hubbard-Holstein model  <br/>
+  **J. Coulter**, A.J. Millis <br/>
+  [arXiv](https://arxiv.org/abs/2505.08081) (2025)
 
-  * Electron-Phonon Coupling in Correlated Metals: A Dynamical Mean-Field Theory Study. (2025).  <br/>
-  D.J. Abramovitch, J. Coulter, S. Beck, A. Millis <br/>
-  [arXiv](https://arxiv.org/abs/2505.03958)
+  * Electron-Phonon Coupling in Correlated Metals: A Dynamical Mean-Field Theory Study <br/>
+  D.J. Abramovitch, **J. Coulter**, S. Beck, A. Millis <br/>
+  [arXiv](https://arxiv.org/abs/2505.03958) (2025)
 
 **New method for investigating hydrodynamic electron-phonon transport**
 
-  * Coupled electron-phonon hydrodynamics and viscous thermoelectric equations. (2025). <br/>
-  J. Coulter, B. Rajkov, M. Simoncelli <br/>
-  [arXiv](https://arxiv.org/abs/2503.07560)
+  * Coupled electron-phonon hydrodynamics and viscous thermoelectric equations <br/>
+  **J. Coulter**, B. Rajkov, M. Simoncelli <br/>
+  [arXiv](https://arxiv.org/abs/2503.07560) (2025)
 
-**Experimental + theoretical collaboration on metallic flat-band materials for thermoelectric applications**
+**Experimental-theoretical collaboration on metallic flat-band thermoelectric materials**
 
-  * Topological Flat-Band-Driven Metallic Thermoelectricity. (2025). <br/>
+  * Topological Flat-Band-Driven Metallic Thermoelectricity <br/>
   F. Garmroudi, **J. Coulter**, I. Serhiienko, S. Di Cataldo, M. Parzer, A. Riss, M. Grasser, S. Stockinger, S. Khmelevskyi, K. Pryga, B. Wiendlocha, K. Held, T. Mori, E. Bauer, A. Georges, and A. Pustogow <br/>
-  [Physical Review X](https://doi.org/10.1103/PhysRevX.15.021054)  
+  [Physical Review X](https://doi.org/10.1103/PhysRevX.15.021054) (2025)
 
-  * Energy filtering-induced ultrahigh  thermoelectric power factors in Ni3Ge. arXiv:2501.04891. (2025.)  <br/>
+  * Energy filtering-induced ultrahigh  thermoelectric power factors in Ni3Ge <br/>
   F. Garmroudi, S. Di Cataldo, M. Parzer, **J. Coulter**, Y. Iwasaki, M. Grasser, S. Stockinger, S. Pázmán, S. Witzmann, A. Riss, H. Michor, R. Podloucky, S. Khmelevskyi, A. Georges, K. Held, T. Mori, E. Bauer, A. Pustogow <br/>
-  [arXiv](https://arxiv.org/abs/2501.04891)
+  [arXiv](https://arxiv.org/abs/2501.04891) (2025)  
   
 
 ## Contact
