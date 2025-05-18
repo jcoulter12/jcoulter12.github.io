@@ -14,21 +14,45 @@ Previously:
  * B.S. in physics from Rutgers University in 2017.
 
 ## Interests
-I'm generally interested in computational materials science/condensed matter physics method development efforts.
-My work focuses on **predicting the transport properties of materials.**
+I'm interested in computational materials science/condensed matter physics, but in particular, my research aims to provide accurate predictions of electron-phonon interactions and transport properties of materials. 
 
 * I'm currently interested in **understanding how electronic correlations and electron-phonon interactions can cooperate to alter the transport properties of materials.**
   
 * **I'm the main developer of the Phoebe code** (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
   * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [manuscript](https://dx.doi.org/10.1088/2515-7639/ac86f6).
   * For questions about using Phoebe, open a [git discussion](https://github.com/mir-group/phoebe/discussions) or email me directly. 
-<br/><br/>
-* **I've also developed methods for novel transport predictions and studied transport in specific materials.**
-  * I've predicted electrical, thermal, and thermoelectric properties for applications.
-    * Thermoelectric properties of Ni3Ge. (2025). [ArXiv](https://arxiv.org/abs/2501.04891)    
-  * I'm interested in understanding exotic transport phenomena such as hydrodynamic transport.
-    * Coulter, Rajkov, Simoncelli. Coupled electron-phonon hydrodynamics and viscous thermoelectric equations. (2025). [ArXiv](https://arxiv.org/abs/2503.07560)
-<br/><br/>
+* I'm actively developing methods for novel transport predictions as well as investigating interesting electronic transport properties of specific materials.
+
+## Selected publications 
+
+See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4-QTKr4AAAAJ&sortby=pubdate) for a full publication list. 
+
+#### Electron-phonon effects in correlated electron systems
+
+  * Electron-phonon coupling in correlated materials: insights from the Hubbard-Holstein model. (2025).  <br/>
+  J. Coulter, A.J. Millis <br/>
+  [arXiv](https://arxiv.org/abs/2505.08081)
+
+  * Electron-Phonon Coupling in Correlated Metals: A Dynamical Mean-Field Theory Study. (2025).  <br/>
+  D.J. Abramovitch, J. Coulter, S. Beck, A. Millis <br/>
+  [arXiv](https://arxiv.org/abs/2505.03958)
+
+#### New method for investigating hydrodynamic electron-phonon transport 
+
+  * Coupled electron-phonon hydrodynamics and viscous thermoelectric equations. (2025). <br/>
+  J. Coulter, B. Rajkov, M. Simoncelli <br/>
+  [arXiv](https://arxiv.org/abs/2503.07560)
+
+#### Experimental + theoretical collaboration on metallic flat-band materials for thermoelectric applications
+
+  * Topological Flat-Band-Driven Metallic Thermoelectricity. (2025). <br/>
+  F. Garmroudi, **J. Coulter**, I. Serhiienko, S. Di Cataldo, M. Parzer, A. Riss, M. Grasser, S. Stockinger, S. Khmelevskyi, K. Pryga, B. Wiendlocha, K. Held, T. Mori, E. Bauer, A. Georges, and A. Pustogow <br/>
+  [Physical Review X](https://doi.org/10.1103/PhysRevX.15.021054)  
+
+  * Energy filtering-induced ultrahigh  thermoelectric power factors in Ni3Ge. arXiv:2501.04891. (2025.)  <br/>
+  F. Garmroudi, S. Di Cataldo, M. Parzer, **J. Coulter**, Y. Iwasaki, M. Grasser, S. Stockinger, S. Pázmán, S. Witzmann, A. Riss, H. Michor, R. Podloucky, S. Khmelevskyi, A. Georges, K. Held, T. Mori, E. Bauer, A. Pustogow <br/>
+  [arXiv](https://arxiv.org/abs/2501.04891)
+  
 
 ## Contact
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
