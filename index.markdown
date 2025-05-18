@@ -16,9 +16,9 @@ Previously:
 ## Interests
 My research aims to provide accurate predictions of electron-phonon interactions and transport properties of materials. In particular: 
 
-* Understanding how electronic correlations can to alter electron-phonon effects in materials.
-* Developing methods for novel transport predictions
-* Investigating interesting electronic transport properties of specific materials
+* Understanding how electronic correlations can to alter electron-phonon effects in materials
+* Developing novel methods for transport predictions
+* Investigating electronic transport in specific materials
 
 I'm also the main developer of the Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
   * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [manuscript](https://dx.doi.org/10.1088/2515-7639/ac86f6).
@@ -30,27 +30,27 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 **Electron-phonon effects in correlated electron systems**
 
-  * Electron-phonon coupling in correlated materials: insights from the Hubbard-Holstein model  <br/>
+  * _Electron-phonon coupling in correlated materials: insights from the Hubbard-Holstein model_  <br/>
   **J. Coulter**, A.J. Millis <br/>
   [arXiv](https://arxiv.org/abs/2505.08081) (2025)
 
-  * Electron-Phonon Coupling in Correlated Metals: A Dynamical Mean-Field Theory Study <br/>
+  * _Electron-Phonon Coupling in Correlated Metals: A Dynamical Mean-Field Theory Study_ <br/>
   D.J. Abramovitch, **J. Coulter**, S. Beck, A. Millis <br/>
   [arXiv](https://arxiv.org/abs/2505.03958) (2025)
 
 **New method for investigating hydrodynamic electron-phonon transport**
 
-  * Coupled electron-phonon hydrodynamics and viscous thermoelectric equations <br/>
+  * _Coupled electron-phonon hydrodynamics and viscous thermoelectric equations_ <br/>
   **J. Coulter**, B. Rajkov, M. Simoncelli <br/>
   [arXiv](https://arxiv.org/abs/2503.07560) (2025)
 
 **Experimental-theoretical collaboration on metallic flat-band thermoelectric materials**
 
-  * Topological Flat-Band-Driven Metallic Thermoelectricity <br/>
+  * _Topological Flat-Band-Driven Metallic Thermoelectricity_ <br/>
   F. Garmroudi, **J. Coulter**, I. Serhiienko, S. Di Cataldo, M. Parzer, A. Riss, M. Grasser, S. Stockinger, S. Khmelevskyi, K. Pryga, B. Wiendlocha, K. Held, T. Mori, E. Bauer, A. Georges, and A. Pustogow <br/>
   [Physical Review X](https://doi.org/10.1103/PhysRevX.15.021054) (2025)
 
-  * Energy filtering-induced ultrahigh  thermoelectric power factors in Ni3Ge <br/>
+  * _Energy filtering-induced ultrahigh  thermoelectric power factors in Ni3Ge_ <br/>
   F. Garmroudi, S. Di Cataldo, M. Parzer, **J. Coulter**, Y. Iwasaki, M. Grasser, S. Stockinger, S. Pázmán, S. Witzmann, A. Riss, H. Michor, R. Podloucky, S. Khmelevskyi, A. Georges, K. Held, T. Mori, E. Bauer, A. Pustogow <br/>
   [arXiv](https://arxiv.org/abs/2501.04891) (2025)  
   
