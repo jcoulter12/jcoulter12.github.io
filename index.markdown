@@ -9,12 +9,12 @@ layout: default
 I'm a Flatiron Research Fellow at the [Center for Computational Quantum Physics (CCQ)](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/).
 
 Previously:
- * PhD in Applied Physics from the [Kozinsky group](https://mir.g.harvard.edu/) at Harvard Unversity in 2023.
+ * Ph.D. in Applied Physics from Harvard Unversity in 2023 ([Kozinsky group](https://mir.g.harvard.edu/)).
  * Department of Energy (DOE) Computational Science Graduate Fellow (CSGF) from 2017-2021.
  * B.S. in physics from Rutgers University in 2017.
 
 ## Interests
-My research aims to provide accurate predictions of electron-phonon interactions and transport properties of materials. In particular: 
+My research aims to accurately predict electron-phonon interactions and transport properties of materials. In particular: 
 
 * Understanding how electronic correlations can to alter electron-phonon effects in materials
 * Developing novel methods for transport predictions
