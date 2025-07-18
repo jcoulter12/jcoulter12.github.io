@@ -16,11 +16,11 @@ Previously:
 ---
 <br>
 ## Interests
-My research aims to accurately predict electron-phonon interactions and transport properties of materials. In particular: 
+My research falls into three areas, all in the interest of predicting electron-phonon and electronic transport in materials:
 
 * Understanding how electronic correlations can alter el-ph effects in materials
-* Developing novel methods for transport predictions
-* Investigating electronic transport in specific materials
+* Developing new and improved methods for transport predictions
+* Collaborating with experimentalists to understand electrical, thermal, and thermoelectric transport in materials 
 
 I'm also the main developer of the Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
   * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [manuscript](https://dx.doi.org/10.1088/2515-7639/ac86f6).
