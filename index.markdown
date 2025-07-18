@@ -14,7 +14,7 @@ Previously:
  * B.S. in physics from Rutgers University in 2017.
 
 ---
-
+<br>
 ## Interests
 My research aims to accurately predict electron-phonon interactions and transport properties of materials. In particular: 
 
@@ -27,7 +27,7 @@ I'm also the main developer of the Phoebe code (a high-performance framework for
   * For questions about using Phoebe, open a [git discussion](https://github.com/phoebe-team/phoebe/discussions) or email me directly. 
 
 ---
-
+<br>
 ## Selected publications 
 
 See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4-QTKr4AAAAJ&sortby=pubdate) for a full publication list. 
@@ -59,7 +59,7 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
   [arXiv](https://arxiv.org/abs/2501.04891) (2025)  
 
 ---
-
+<br>
 ## Contact
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
 
