@@ -18,7 +18,7 @@ Previously:
 ## Interests
 My research aims to accurately predict electron-phonon interactions and transport properties of materials. In particular: 
 
-* Understanding how electronic correlations can to alter electron-phonon effects in materials
+* Understanding how electronic correlations can alter el-ph effects in materials
 * Developing novel methods for transport predictions
 * Investigating electronic transport in specific materials
 
