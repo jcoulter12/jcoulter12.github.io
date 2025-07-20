@@ -20,3 +20,26 @@ h2 {
     font-family: 'Lora', Georgia, sans-serif; // Fallback fonts are good practice
     color:#606AFC;
 }
+
+$link-color: #78C1D4; // A nice blue
+
+// Apply the color to all anchor tags (links)
+a {
+  color: $link-color;
+
+  // Style for visited links (can only change a limited set of properties for security reasons)
+  &:visited {
+    color: darken($link-color, 15%); // A slightly darker shade of blue
+  }
+
+  // Style for when the mouse hovers over a link
+  &:hover {
+    color: lighten($link-color, 10%); // A lighter shade of blue
+    text-decoration: underline; // Add an underline on hover
+  }
+
+  // Style for when a link is being actively clicked
+  &:active {
+    color: darken($link-color, 25%); // An even darker shade of blue
+  }
+}
