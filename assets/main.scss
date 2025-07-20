@@ -4,9 +4,6 @@ $base-font-family: HelveticaNeu;
 $brand-color: orange;
 
 @import "minima";
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
 
 h1 {
   padding-bottom: 2px;
