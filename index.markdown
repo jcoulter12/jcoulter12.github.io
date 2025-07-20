@@ -4,7 +4,7 @@
 layout: default
 ---
 
-# Jennifer (Jenny) Coulter
+<h1>Jennifer (Jenny) Coulter</h1>
 
 I'm a Flatiron Research Fellow at the [Center for Computational Quantum Physics (CCQ)](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/).
 
