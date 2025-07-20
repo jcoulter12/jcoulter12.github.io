@@ -4,7 +4,7 @@
 layout: default
 ---
 
-<h1 style="color:#606AFC;">Jennifer (Jenny) Coulter</h1>
+<h1 style="color:#606AFC;">Jennifer (Jenny) Coulter</h1> A1C355
 
 I'm a Flatiron Research Fellow at the [Center for Computational Quantum Physics (CCQ)](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/).
 
@@ -15,7 +15,7 @@ Previously:
 
 ---
 <br>
-<h2> Interests </h2>
+<h2 style="color:#A1C355;"> Interests </h2>
 My research falls into three areas, all in the interest of predicting electron-phonon and electronic transport in materials:
 
 * Understanding how electronic correlations can alter el-ph effects in materials
@@ -29,7 +29,7 @@ I'm also the main developer of the <a href="https://github.com/phoebe-team/phoeb
 
 ---
 <br>
-<h2> Selected publications </h2>
+<h2 style="color:#D8B13A;"> Selected publications </h2>
 
 See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4-QTKr4AAAAJ&sortby=pubdate) for a full publication list. 
 
@@ -61,7 +61,7 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 ---
 <br>
-<h2> Contact </h2>
+<h2 style="color:#C1544D;"> Contact </h2> 
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
 
 <h2> Links </h2>
