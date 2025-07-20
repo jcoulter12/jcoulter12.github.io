@@ -15,7 +15,7 @@ Previously:
 
 --- 
 
-<h2 style="color:#606AFC; margin-top:10px;"> Interests </h2>
+<h2 style="margin-top:12px;"> Interests </h2>
 My research falls into three areas, all in the interest of predicting electron-phonon and electronic transport in materials:
 
 * Understanding how electronic correlations can alter el-ph effects in materials
@@ -29,7 +29,7 @@ I'm also the main developer of the <a href="https://github.com/phoebe-team/phoeb
 
 ---
 
-<h2 style="color:#606AFC; margin-top:10px;"> Selected publications </h2>
+<h2 style="margin-top:12px;"> Selected publications </h2>
 
 See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4-QTKr4AAAAJ&sortby=pubdate) for a full publication list. 
 
@@ -61,7 +61,7 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 ---
 
-<h2 style="color:#606AFC; margin-top:10px;"> Contact </h2> 
+<h2 style="margin-top:12px;"> Contact </h2> 
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=4-QTKr4AAAAJ)
