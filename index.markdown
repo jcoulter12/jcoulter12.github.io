@@ -15,21 +15,21 @@ Previously:
 
 ---
 <br>
-<h2 style="color:#4BACC6;"> Interests </h2>
+<h2 style="color:#606AFC;"> Interests </h2>
 My research falls into three areas, all in the interest of predicting electron-phonon and electronic transport in materials:
 
 * Understanding how electronic correlations can alter el-ph effects in materials
 * Developing new and improved methods for transport predictions
 * Collaborating with experimentalists to understand electrical, thermal, and thermoelectric transport in materials
 
-I'm also the main developer of the <a href="https://github.com/phoebe-team/phoebe"><img src="/images/phoebe_icon.png" width="16"/></a>
+I'm also the main developer of the <a href="https://github.com/phoebe-team/phoebe"><img src="/images/phoebe_icon.png" width="14"/></a>
  Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
   * You can learn more about Phoebe through its [documentation](https://phoebe.readthedocs.io/en/develop/introduction.html) or the [manuscript](https://dx.doi.org/10.1088/2515-7639/ac86f6).
   * For questions about using Phoebe, open a [git discussion](https://github.com/phoebe-team/phoebe/discussions) or email me directly. 
 
 ---
 <br>
-<h2 style="color:#8CA951;"> Selected publications </h2>
+<h2 style="color:#606AFC;"> Selected publications </h2>
 
 See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4-QTKr4AAAAJ&sortby=pubdate) for a full publication list. 
 
@@ -61,7 +61,7 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 ---
 <br>
-<h2 style="color:#D8B13A;"> Contact </h2> 
+<h2 style="color:#606AFC;"> Contact </h2> 
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=4-QTKr4AAAAJ)
