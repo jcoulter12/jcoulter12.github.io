@@ -15,7 +15,7 @@ Previously:
 
 ---
 <br>
-## Interests
+<h2> Interests </h2>
 My research falls into three areas, all in the interest of predicting electron-phonon and electronic transport in materials:
 
 * Understanding how electronic correlations can alter el-ph effects in materials
@@ -29,7 +29,7 @@ I'm also the main developer of the <a href="https://github.com/phoebe-team/phoeb
 
 ---
 <br>
-## Selected publications 
+<h2> Selected publications </h2>
 
 See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4-QTKr4AAAAJ&sortby=pubdate) for a full publication list. 
 
@@ -61,10 +61,10 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 ---
 <br>
-## Contact
+<h2> Contact </h2>
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
 
-## Links
+<h2> Links </h2>
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=4-QTKr4AAAAJ)
 * [LinkedIn](https://www.linkedin.com/in/jenny-coulter-0945b7105/)
 * [Github](https://github.com/jcoulter12)
