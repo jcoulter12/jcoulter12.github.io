@@ -1,18 +1,16 @@
 ---
 ---
 
-@font-face {
-  font-family: "Lora";
-  src: url("/images/lora.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
-$base-font-family: Lora;
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
-@import "minima";
+$font-family-serif: 'Lora', serif; // Define a variable
+
+body {
+    font-family: $font-family-serif; // Apply to the body
+}
 
 h1 {
-  font-family: "Lora";
-  padding-bottom: 2px;
-  color: SlateBlue;
+    font-family: 'Lora', Georgia, serif; // Fallback fonts are good practice
 }
+
+@import "minima";
