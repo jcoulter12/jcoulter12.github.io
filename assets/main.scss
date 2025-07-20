@@ -1,20 +1,4 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Carlito&display=swap');
-
-body {
-    font-family: 'Carlito', sans-serif; // Apply to the body
-    color: #1F2951;
-}
-h1 {
-    font-family: 'Lora', Georgia, serif; // Fallback fonts are good practice
-    color: SlateBlue; 
-}
-h2 {
-    font-family: 'Lora', Georgia, serif; // Fallback fonts are good practice
-    color: SlateBlue; 
-}
-
 @import "minima";
