@@ -13,9 +13,9 @@ Previously:
  * Department of Energy (DOE) Computational Science Graduate Fellow (CSGF) from 2017-2021.
  * B.S. in physics from Rutgers University in 2017.
 
----
-<br>
-<h2 style="color:#606AFC;"> Interests </h2>
+--- 
+
+<h2 style="color:#606AFC; margin-top:10px;"> Interests </h2>
 My research falls into three areas, all in the interest of predicting electron-phonon and electronic transport in materials:
 
 * Understanding how electronic correlations can alter el-ph effects in materials
@@ -28,8 +28,8 @@ I'm also the main developer of the <a href="https://github.com/phoebe-team/phoeb
   * For questions about using Phoebe, open a [git discussion](https://github.com/phoebe-team/phoebe/discussions) or email me directly. 
 
 ---
-<br>
-<h2 style="color:#606AFC;"> Selected publications </h2>
+
+<h2 style="color:#606AFC; margin-top:10px;"> Selected publications </h2>
 
 See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=4-QTKr4AAAAJ&sortby=pubdate) for a full publication list. 
 
@@ -60,8 +60,8 @@ See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
   [arXiv](https://arxiv.org/abs/2501.04891) (2025)  
 
 ---
-<br>
-<h2 style="color:#606AFC;"> Contact </h2> 
+
+<h2 style="color:#606AFC; margin-top:10px;"> Contact </h2> 
 Please feel free to reach out to me by email at **jcoulter@flatironinstitute.org**.
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=4-QTKr4AAAAJ)
