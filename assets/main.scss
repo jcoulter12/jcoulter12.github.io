@@ -2,18 +2,20 @@
 ---
 
 @import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carlito&display=swap');
 
-$base-font-family: 'Lora', serif; // Define a variable
 
 body {
-    font-family: $base-font-family; // Apply to the body
+    font-family: 'Carlito', serif; // Apply to the body
+    color: #1F2951;
 }
-
 h1 {
     font-family: 'Lora', Georgia, serif; // Fallback fonts are good practice
+    color: SlateBlue; 
 }
 h2 {
     font-family: 'Lora', Georgia, serif; // Fallback fonts are good practice
+    color: SlateBlue; 
 }
 
 @import "minima";
