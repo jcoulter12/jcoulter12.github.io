@@ -16,7 +16,7 @@ Previously:
 --- 
 
 <h2 style="margin-top:12px;"> Interests </h2>
-My research falls into three areas, all in the interest of predicting electron-phonon and electronic transport in materials:
+My research falls into three areas, all in predicting electron-phonon and electronic transport in materials:
 
 * Understanding how electronic correlations can alter el-ph effects in materials
 * Developing new and improved methods for transport predictions
