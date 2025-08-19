@@ -20,7 +20,7 @@ My research falls into three areas, all in the interest of predicting electron-p
 
 * Understanding how electronic correlations can alter el-ph effects in materials
 * Developing new and improved methods for transport predictions
-* Collaborating with experimentalists to understand electrical, thermal, and thermoelectric transport in materials
+* Collaborating with experimentalists to understand electrical, thermal, and thermoelectric transport
 
 I'm also the main developer of the <a href="https://github.com/phoebe-team/phoebe"><img src="/images/phoebe_icon.png" width="14"/></a>
  Phoebe code (a high-performance framework for Phonon and Electron Boltzmann transport Equation solutions).
