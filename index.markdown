@@ -6,7 +6,7 @@ layout: default
 
 <h1>Jennifer (Jenny) Coulter</h1> 
 
-I'm a Flatiron Research Fellow at the [Center for Computational Quantum Physics (CCQ)](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/).
+I'm an Associate Research Scientist at the Flatiron Institute [Center for Computational Quantum Physics (CCQ)](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/).
 
 Previously:
  * Ph.D. in Applied Physics from Harvard Unversity in 2023 ([Kozinsky group](https://mir.g.harvard.edu/)).
